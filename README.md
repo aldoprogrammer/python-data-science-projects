@@ -187,10 +187,10 @@ Want to add more projects or improve existing ones?
 
 ## 📞 Support & Community
 
-- **Issues:** Report bugs or request features via GitHub Issues
-- **Discussions:** Join our GitHub Discussions for Q&A
-- **Discord:** [Join our Data Science Beginners Discord](#)
-- **LinkedIn:** Follow for updates and tips
+For questions, feedback, or collaboration, please contact:
+
+- **Email:** [aldobesma@gmail.com](mailto:aldobesma@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/aldols/](https://www.linkedin.com/in/aldols/)
 
 ## 📄 License
 
